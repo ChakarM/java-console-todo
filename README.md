@@ -22,8 +22,8 @@ A simple command-line todo list application built with Java. Practice project fo
 
 
 1. Ensure you have Java installed on your system
-2. Compile the Java file: `javac Main.java`
-3. Run the compiled program: `java Main`
+2. Compile the Java file: `javac ToDoList.java`
+3. Run the compiled program: `java ToDoList`
 
 ## Usage
 
